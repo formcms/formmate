@@ -1,5 +1,7 @@
 # FormCMS: The AI-Powered App Platform
 
+> **About this repo:** FormMate is the Node.js (Fastify) admin portal for [FormCMS](https://github.com/formcms/formcms), served at `/mate`. The core CMS backend lives in [formcms/formcms](https://github.com/formcms/formcms). Live demo: [demo.formcms.com/mate](https://demo.formcms.com/mate)
+
 FormCMS is an open-source platform that turns natural language into full-stack apps — schemas, APIs, UI, and deployment — in minutes. Ship with Docker, build with AI agents, scale to millions of records.
 
 ---
